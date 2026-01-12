@@ -88,7 +88,7 @@ This task emphasized **systems-level thinking**, highlighting the interaction be
 
 ## 💡 Why This Project Matters
 
-This project demonstrates a complete **robotics and controls engineering workflow**, from diagnostics to design optimization and validation, applied in a **medical robotics context** where precision, reliability, and safety are critical. It highlights how data-driven engineering decisions can improve system performance margins in healthcare-focused robotic systems.
+This project demonstrates a comprehensive **robotics and controls engineering workflow**, encompassing diagnostics, design optimisation, and validation, applied in a **medical robotics context** where precision, reliability, and safety are paramount. It highlights how data-driven engineering decisions can improve system performance margins in healthcare-focused robotic systems.
 
 ---
 
@@ -105,7 +105,6 @@ No confidential or proprietary Johnson & Johnson information is included.
 Johnson & Johnson Robotics & Controls Job Simulation (Forage):  
 https://www.theforage.com/simulations/johnson-and-johnson/robotics-controls-aozc
 
-**[Your Name]**  
 Robotics & Controls | Medical Robotics | Engineering Simulation  
 
-Feel free to connect on LinkedIn.
+Feel free to connect on ![LinkedIn](https://www.linkedin.com/in/palaniappan-yeagappan).
