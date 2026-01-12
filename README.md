@@ -107,4 +107,4 @@ https://www.theforage.com/simulations/johnson-and-johnson/robotics-controls-aozc
 
 Robotics & Controls | Medical Robotics | Engineering Simulation  
 
-Feel free to connect on ![LinkedIn](https://www.linkedin.com/in/palaniappan-yeagappan).
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/palaniappan-yeagappan).
